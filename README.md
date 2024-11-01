@@ -1,4 +1,4 @@
-![bigFDL Gambling Bot Image]https://equabg.neocities.org/bigfdl.png)
+![bigFDL Gambling Bot Image](https://equabg.neocities.org/bigfdl.png)
 
 # Bot Description
 Wanna gamble? But not with real money?
