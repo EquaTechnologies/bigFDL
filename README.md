@@ -1,3 +1,5 @@
+![bigFDL Gambling Bot Image]https://equabg.neocities.org/bigfdl.png)
+
 # Bot Description
 Wanna gamble? But not with real money?
 24/7?  Saves progress across servers?
