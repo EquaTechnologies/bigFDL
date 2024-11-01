@@ -1,7 +1,7 @@
 ![bigFDL Gambling Bot Image](https://equabg.neocities.org/bigfdl.png)
 
 # ⚠️⚠️⚠️ ULTRA IMPORTANT!!! ⚠️⚠️⚠️
-THIS BOT HAS ;eval ENABLED FOR **EVERYONE**. It just has a simple filter to prevent dangerous command. BUT **DO NOT RELY ON IT!!!**
+THIS BOT HAS ;eval ENABLED FOR **EVERYONE**. It just has a simple filter to prevent (let's hope all) dangerous commands. BUT **DO NOT RELY ON IT!!!**
 If you plan on making your own bot with this code, I suggest you to make this eval function only for the bot owner to use.
 
 # Bot Description
