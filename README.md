@@ -18,5 +18,15 @@ Use ;help for all the commands.
 
 **bigFDL Official Discord Server:** https://discord.gg/j4gW9FAW3c
 
+# Setup
+
+The setup process is **EXTREMELY** easy.
+1. Download the Python file in the repository. It should be only one.
+2. Go to the Discord Developer Portal and make a Discord bot. Copy the token. **(DO NOT SHARE THIS TOKEN TO ANYONE AND IF YOU DO RESET IT IN THE DEVELOPER PORTAL!!!)**
+3. Open the file and modify the code however you want. Go to the end of the code and you should see a place to put your token there.
+4. Create an Oauth2 link for the bot
+
+And yet again, it is reccomended to remove or make it owner-only the *;eval* command.
+
 
 
