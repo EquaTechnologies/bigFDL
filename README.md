@@ -14,8 +14,9 @@ Use ;help for all the commands.
 
 # Links
 
-Invite bigFDL to your server: https://discord.com/oauth2/authorize?client_id=1287156699903295614&permissions=67584&integration_type=0&scope=bot
-bigFDL Official Discord Server: https://discord.gg/j4gW9FAW3c
+**Invite bigFDL to your server:** https://discord.com/oauth2/authorize?client_id=1287156699903295614&permissions=67584&integration_type=0&scope=bot
+
+**bigFDL Official Discord Server:** https://discord.gg/j4gW9FAW3c
 
 
 
